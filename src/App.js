@@ -97,8 +97,8 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Lead Frontend assignment by Shivam Gupta</h1>
-      {/* <h1>Kanban Board App</h1> */}
+     
+      <h1>Kanban Board App</h1>
       <div className="options">
         <label>
           Group by:
